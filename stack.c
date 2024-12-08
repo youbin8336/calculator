@@ -73,4 +73,4 @@ static void reallocate(Stack * stack)
 	free(stack->contents);
 	stack->contents = tmp;
 }
-printf("--Pushed: %d\n", i); 
+printf("Hello, Open Source!\n");
